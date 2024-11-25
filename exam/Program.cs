@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
 //ex1
+//
 /*
 string name = " Dima" ;
 int age = 24; 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dima_\\OneDrive\\Desktop\\exam\\exam\\exam.csproj": {}
+    "C:\\Users\\dima_\\OneDrive\\Desktop\\exam\\exam\\exam.csproj": {}
   },
   "projects": {
-    "c:\\Users\\dima_\\OneDrive\\Desktop\\exam\\exam\\exam.csproj": {
+    "C:\\Users\\dima_\\OneDrive\\Desktop\\exam\\exam\\exam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dima_\\OneDrive\\Desktop\\exam\\exam\\exam.csproj",
+        "projectUniqueName": "C:\\Users\\dima_\\OneDrive\\Desktop\\exam\\exam\\exam.csproj",
         "projectName": "exam",
-        "projectPath": "c:\\Users\\dima_\\OneDrive\\Desktop\\exam\\exam\\exam.csproj",
+        "projectPath": "C:\\Users\\dima_\\OneDrive\\Desktop\\exam\\exam\\exam.csproj",
         "packagesPath": "C:\\Users\\dima_\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dima_\\OneDrive\\Desktop\\exam\\exam\\obj\\",
+        "outputPath": "C:\\Users\\dima_\\OneDrive\\Desktop\\exam\\exam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dima_\\AppData\\Roaming\\NuGet\\NuGet.Config"
