@@ -1,0 +1,14 @@
+c:\Users\dima_\OneDrive\Desktop\exam\exam\bin\Debug\net8.0\exam.exe
+c:\Users\dima_\OneDrive\Desktop\exam\exam\bin\Debug\net8.0\exam.deps.json
+c:\Users\dima_\OneDrive\Desktop\exam\exam\bin\Debug\net8.0\exam.runtimeconfig.json
+c:\Users\dima_\OneDrive\Desktop\exam\exam\bin\Debug\net8.0\exam.dll
+c:\Users\dima_\OneDrive\Desktop\exam\exam\bin\Debug\net8.0\exam.pdb
+c:\Users\dima_\OneDrive\Desktop\exam\exam\obj\Debug\net8.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dima_\OneDrive\Desktop\exam\exam\obj\Debug\net8.0\exam.AssemblyInfoInputs.cache
+c:\Users\dima_\OneDrive\Desktop\exam\exam\obj\Debug\net8.0\exam.AssemblyInfo.cs
+c:\Users\dima_\OneDrive\Desktop\exam\exam\obj\Debug\net8.0\exam.csproj.CoreCompileInputs.cache
+c:\Users\dima_\OneDrive\Desktop\exam\exam\obj\Debug\net8.0\exam.dll
+c:\Users\dima_\OneDrive\Desktop\exam\exam\obj\Debug\net8.0\refint\exam.dll
+c:\Users\dima_\OneDrive\Desktop\exam\exam\obj\Debug\net8.0\exam.pdb
+c:\Users\dima_\OneDrive\Desktop\exam\exam\obj\Debug\net8.0\exam.genruntimeconfig.cache
+c:\Users\dima_\OneDrive\Desktop\exam\exam\obj\Debug\net8.0\ref\exam.dll
